@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p168711-e1945519.adobeaemcloud.com/bin/franklin.delivery/nirmaljosehere/swisscom/main"
+    url: "https://author-p168711-e1945519.adobeaemcloud.com/bin/franklin.delivery/nirmaljosehere/swisscomweb/main"
     type: "markup"
     suffix: ".html"
