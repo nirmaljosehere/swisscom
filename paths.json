@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/swisscomweb/language-masters/en:/",
-    "/content/swisscomweb/language-masters/en/:/en/",
-    "/content/swisscomweb/language-masters/fr/:/fr/",
-    "/content/swisscomweb/language-masters/fr:/fr",
-    "/content/swisscomweb/language-masters/es/:/es/",
-    "/content/swisscomweb/language-masters/es:/es",
-    "/content/swisscomweb/language-masters/ja/:/ja/",
-    "/content/swisscomweb/language-masters/ja:/ja",
-    "/content/swisscomweb/language-masters/de/:/de/",
-    "/content/swisscomweb/language-masters/de:/de",
-    "/content/swisscomweb/configuration:/.helix/config.json",
-    "/content/swisscomweb/metadata:/metadata.json",
-    "/content/swisscomweb/redirects:/redirects.json",
-    "/content/swisscomweb/placeholders:/placeholders.json"
+    "/content/swisscom-website/language-masters/en:/",
+    "/content/swisscom-website/language-masters/en/:/en/",
+    "/content/swisscom-website/language-masters/fr/:/fr/",
+    "/content/swisscom-website/language-masters/fr:/fr",
+    "/content/swisscom-website/language-masters/es/:/es/",
+    "/content/swisscom-website/language-masters/es:/es",
+    "/content/swisscom-website/language-masters/ja/:/ja/",
+    "/content/swisscom-website/language-masters/ja:/ja",
+    "/content/swisscom-website/language-masters/de/:/de/",
+    "/content/swisscom-website/language-masters/de:/de",
+    "/content/swisscom-website/configuration:/.helix/config.json",
+    "/content/swisscom-website/metadata:/metadata.json",
+    "/content/swisscom-website/redirects:/redirects.json",
+    "/content/swisscom-website/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/swisscomweb/",
-    "/content/dam/swisscomweb/"
+    "/content/swisscom-website/",
+    "/content/dam/swisscom-website/"
   ]
 }
