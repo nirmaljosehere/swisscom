@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/swisscom/language-masters/en:/",
+    "/content/swisscom/language-masters/en/:/en/",
+    "/content/swisscom/language-masters/fr/:/fr/",
+    "/content/swisscom/language-masters/fr:/fr",
+    "/content/swisscom/language-masters/es/:/es/",
+    "/content/swisscom/language-masters/es:/es",
+    "/content/swisscom/language-masters/ja/:/ja/",
+    "/content/swisscom/language-masters/ja:/ja",
+    "/content/swisscom/language-masters/de/:/de/",
+    "/content/swisscom/language-masters/de:/de",
+    "/content/swisscom/configuration:/.helix/config.json",
+    "/content/swisscom/metadata:/metadata.json",
+    "/content/swisscom/redirects:/redirects.json",
+    "/content/swisscom/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/swisscom/",
+    "/content/dam/swisscom/"
   ]
 }
